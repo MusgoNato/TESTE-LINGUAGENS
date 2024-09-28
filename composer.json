@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "*",
+        "tymon/jwt-auth": "*"
+    }
+}
